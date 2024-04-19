@@ -8,4 +8,4 @@ Deuxième projet de la formation Openclassroom : Transformez une maquette en sit
 
 - Intégrer du contenu conformément à une maquette avec HTML et CSS
 
-Lien du site : <>
+Lien du site : <https://daiba-yume.github.io/Project_2/#>
