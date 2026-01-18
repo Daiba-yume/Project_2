@@ -48,4 +48,4 @@ Daïba Yume :purple_heart:
 
 ## 💮 Demo
 
-https://daiba-yume.github.io/Project_2/#
+[Booki](https://daiba-yume.github.io/Project_2/#)
